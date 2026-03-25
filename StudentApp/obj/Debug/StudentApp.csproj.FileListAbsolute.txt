@@ -1,7 +1,0 @@
-D:\github\.NET-Student-Management-System\StudentApp\bin\Debug\StudentApp.exe.config
-D:\github\.NET-Student-Management-System\StudentApp\bin\Debug\StudentApp.exe
-D:\github\.NET-Student-Management-System\StudentApp\bin\Debug\StudentApp.pdb
-D:\github\.NET-Student-Management-System\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
-D:\github\.NET-Student-Management-System\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
-D:\github\.NET-Student-Management-System\StudentApp\obj\Debug\StudentApp.exe
-D:\github\.NET-Student-Management-System\StudentApp\obj\Debug\StudentApp.pdb
